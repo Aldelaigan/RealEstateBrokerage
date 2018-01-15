@@ -13,9 +13,9 @@ public class BrowserNotificationsController {
 
     public Action browserNotifications() {
         int pageNumber = 1;
-        int pages = dataBase.getMessages(login).size()/10;
-        if (pageNumber % 10 == 0)
-            pages++;
+        int pages = dataBase.getMessages(login).size()/10+1;
+        if (dataBase.getMessages(login).size() == 0)
+            pages=0;
         while (true) {
             showMessages(pageNumber);
             browserNotificationsView.printNavigation(pageNumber, pages);

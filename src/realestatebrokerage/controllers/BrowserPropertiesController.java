@@ -15,8 +15,8 @@ public class BrowserPropertiesController {
     public Action browserProperties() {
         int pageNumber = 1;
         int pages = dataBase.getPropertyList().size() / 10 + 1;
-        if (pageNumber % 10 == 0)
-            pages++;
+        if (dataBase.getPropertyList().size() == 0)
+            pages=0;
         while (true) {
             showProperties(pageNumber);
             browserPropertiesView.printNavigation(pageNumber, pages);
