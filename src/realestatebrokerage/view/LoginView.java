@@ -57,7 +57,7 @@ public class LoginView extends View{
         System.out.println(questions[1]);
         answer[1]=getWord();
         System.out.println(questions[2]);
-        answer[2]=getNumber();
+        answer[2]=getPhoneNumber();
         System.out.println(questions[3]);
         answer[3]=getEmail();
         return answer;

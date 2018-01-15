@@ -113,11 +113,11 @@ public class ViewPropertyController {
     }
 
     public void changePrice(){
-        int currentPrice = viewedProperty.getPrice();
+        long currentPrice = viewedProperty.getPrice();
         AddPropertyController addPropertyController = new AddPropertyController();
         addPropertyController.setProperty(viewedProperty);
         addPropertyController.setPropertyPrice();
-        int newPrice = viewedProperty.getPrice();
+        long newPrice = viewedProperty.getPrice();
         dataBase.notifyPropertyPriceChanged(viewedProperty,currentPrice,newPrice);
     }
 

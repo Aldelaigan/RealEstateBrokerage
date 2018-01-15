@@ -7,6 +7,19 @@ import java.util.regex.Pattern;
 public abstract class View {
     protected Scanner scanner = new Scanner(System.in);
 
+    protected String getPhoneNumber(){
+        String words = scanner.nextLine();
+        Pattern p = Pattern.compile("[\\d]{9}+");
+        Matcher m = p.matcher(words);
+        while(!m.matches()){
+            System.out.println("Expected a nine digit format");
+            words = scanner.nextLine();
+            m = p.matcher(words);
+        }
+        return words;
+    }
+
+
     protected String getWords(){
         String words = scanner.nextLine();
         Pattern p = Pattern.compile("[a-zA-ZĄąŁłŹźŻŻÓóĘęŃńŚś ]+");

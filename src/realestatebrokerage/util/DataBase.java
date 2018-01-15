@@ -107,7 +107,7 @@ public class DataBase implements Serializable{
         }
     }
 
-    public void notifyPropertyPriceChanged(Property property,int old, int current){
+    public void notifyPropertyPriceChanged(Property property,long old, long current){
         ArrayList<String> loginsOfObservers = storage.getPropertyAndLogins().get(property);
         for (String login:loginsOfObservers){
             addMessage(login,"Property at address "+property.getPropertyAddress().toString()+" price was changed from "+old+" to "+current);

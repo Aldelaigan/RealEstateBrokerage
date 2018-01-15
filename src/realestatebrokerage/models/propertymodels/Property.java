@@ -10,15 +10,15 @@ public class Property implements Serializable{
     private Land land;
     private Address propertyAddress;
     private boolean sold;
-    private int price;
+    private long price;
     private String owner;
 
 
-    public int getPrice() {
+    public long getPrice() {
         return price;
     }
 
-    public void setPrice(int price) {
+    public void setPrice(long price) {
         this.price = price;
     }
 

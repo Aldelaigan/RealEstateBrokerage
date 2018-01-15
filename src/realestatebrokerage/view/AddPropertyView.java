@@ -18,12 +18,21 @@ public class AddPropertyView extends View{
         return answer;
     }
 
-    public int askPrice() {
+    public long askPrice() {
         System.out.println("What is the price of property?");
-        int price = Integer.valueOf(getNumber());
+        long price=0;
+        try {
+            price = Long.valueOf(getNumber());
+        }catch (Exception NumberFormatException){
+            price=0;
+        }
         while(price==0) {
-            System.out.println("Price can't be equal to 0, try again.");
-            price= Integer.valueOf(getNumber());
+            System.out.println("Price can't be equal to 0 or be way too big! Try again.");
+            try {
+                price = Long.valueOf(getNumber());
+            }catch(Exception NumberFormatException){
+                price = 0;
+            }
         }
         return price;
     }

@@ -12,31 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Program.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/Program.java">
+      <file leaf-file-name="AddPropertyController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/controllers/AddPropertyController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1518">
-              <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataBase.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/util/DataBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StoringManager.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/util/StoringManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+            <state relative-caret-position="312">
+              <caret line="55" column="21" lean-forward="true" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,23 +24,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BrowserPropertiesView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/view/browsing/BrowserPropertiesView.java">
+      <file leaf-file-name="Property.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/models/propertymodels/Property.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddPropertyController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/controllers/AddPropertyController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1008">
-              <caret line="79" column="15" lean-forward="false" selection-start-line="79" selection-start-column="15" selection-end-line="79" selection-end-column="15" />
+            <state relative-caret-position="160">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#549#550#0" expanded="true" />
+                <element signature="e#583#584#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,8 +40,8 @@
       <file leaf-file-name="ViewPropertyController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/controllers/ViewPropertyController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1264">
-              <caret line="95" column="59" lean-forward="false" selection-start-line="95" selection-start-column="44" selection-end-line="95" selection-end-column="59" />
+            <state relative-caret-position="207">
+              <caret line="120" column="38" lean-forward="false" selection-start-line="120" selection-start-column="38" selection-end-line="120" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,24 +49,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BrowserNotificationsController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/controllers/BrowserNotificationsController.java">
+      <file leaf-file-name="DataBase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/util/DataBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BrowserNotificationsView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/view/browsing/BrowserNotificationsView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="145">
+              <caret line="109" column="65" lean-forward="false" selection-start-line="109" selection-start-column="65" selection-end-line="109" selection-end-column="65" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/view/LoginView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="848">
+              <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+              <folding>
+                <element signature="method#printLoginOptions#0;class#LoginView#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -103,21 +74,49 @@
       <file leaf-file-name="BrowserView.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/view/browsing/BrowserView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+            <state relative-caret-position="0">
+              <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="View.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/view/View.java">
+      <file leaf-file-name="NumberFormatException.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/NumberFormatException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="208">
+              <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Integer.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Integer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="453">
+              <caret line="582" column="0" lean-forward="false" selection-start-line="582" selection-start-column="0" selection-end-line="582" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrowserPropertiesController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/controllers/BrowserPropertiesController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddPropertyView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/view/AddPropertyView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -144,11 +143,15 @@
       <find>name</find>
       <find>type</find>
       <find>printProperty</find>
+      <find>pho</find>
     </findStrings>
     <replaceStrings>
       <replace>chimney</replace>
       <replace>postcode</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -158,7 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/realestatebrokerage/models/DataBase.java" />
         <option value="$PROJECT_DIR$/src/realestatebrokerage/models/Storage.java" />
         <option value="$PROJECT_DIR$/src/realestatebrokerage/util/SerializeDeserialize.java" />
         <option value="$PROJECT_DIR$/src/realestatebrokerage/models/Address.java" />
@@ -168,14 +170,11 @@
         <option value="$PROJECT_DIR$/src/realestatebrokerage/models/TypeOfCommercialBuilding.java" />
         <option value="$PROJECT_DIR$/src/realestatebrokerage/models/TypeOfLand.java" />
         <option value="$PROJECT_DIR$/src/realestatebrokerage/models/User.java" />
-        <option value="$PROJECT_DIR$/src/realestatebrokerage/util/DataBase.java" />
         <option value="$PROJECT_DIR$/src/realestatebrokerage/util/Utilities.java" />
         <option value="$PROJECT_DIR$/src/realestatebrokerage/util/CommandGenerator.java" />
         <option value="$PROJECT_DIR$/src/realestatebrokerage/models/TypeOfHouse.java" />
         <option value="$PROJECT_DIR$/src/realestatebrokerage/view/PropertyView.java" />
-        <option value="$PROJECT_DIR$/src/realestatebrokerage/view/LoginView.java" />
         <option value="$PROJECT_DIR$/src/realestatebrokerage/controllers/AddPropertyController.java" />
-        <option value="$PROJECT_DIR$/src/realestatebrokerage/view/AddPropertyView.java" />
         <option value="$PROJECT_DIR$/src/realestatebrokerage/models/typeoflandandbuildings/TypeOfCommercialBuilding.java" />
         <option value="$PROJECT_DIR$/src/realestatebrokerage/models/typeoflandandbuildings/TypeOfHouse.java" />
         <option value="$PROJECT_DIR$/src/realestatebrokerage/models/typeoflandandbuildings/TypeOfLand.java" />
@@ -194,11 +193,9 @@
         <option value="$PROJECT_DIR$/src/realestatebrokerage/models/storageandsystemmodels/User.java" />
         <option value="$PROJECT_DIR$/src/realestatebrokerage/models/storageandsystemmodels/Storage.java" />
         <option value="$PROJECT_DIR$/src/realestatebrokerage/models/propertymodels/Address.java" />
-        <option value="$PROJECT_DIR$/src/realestatebrokerage/models/propertymodels/Property.java" />
         <option value="$PROJECT_DIR$/src/realestatebrokerage/models/propertymodels/land/TypeOfLand.java" />
         <option value="$PROJECT_DIR$/src/realestatebrokerage/models/propertymodels/buildings/enums/TypeOfHouse.java" />
         <option value="$PROJECT_DIR$/src/realestatebrokerage/util/HashingManager.java" />
-        <option value="$PROJECT_DIR$/src/realestatebrokerage/controllers/BrowserPropertiesController.java" />
         <option value="$PROJECT_DIR$/src/realestatebrokerage/view/BrowserView.java" />
         <option value="$PROJECT_DIR$/src/realestatebrokerage/controllers/BrowserNotificationsController.java" />
         <option value="$PROJECT_DIR$/src/realestatebrokerage/view/BrowserNotificationsView.java" />
@@ -206,18 +203,25 @@
         <option value="$PROJECT_DIR$/src/realestatebrokerage/view/browsing/BrowserNotificationsView.java" />
         <option value="$PROJECT_DIR$/src/realestatebrokerage/view/browsing/BrowserPropertiesView.java" />
         <option value="$PROJECT_DIR$/src/realestatebrokerage/view/browsing/BrowserView.java" />
-        <option value="$PROJECT_DIR$/src/realestatebrokerage/view/View.java" />
         <option value="$PROJECT_DIR$/src/realestatebrokerage/Program.java" />
         <option value="$PROJECT_DIR$/src/realestatebrokerage/util/StoringManager.java" />
+        <option value="$PROJECT_DIR$/src/realestatebrokerage/view/View.java" />
+        <option value="$PROJECT_DIR$/src/realestatebrokerage/view/LoginView.java" />
+        <option value="$PROJECT_DIR$/src/realestatebrokerage/view/AddPropertyView.java" />
+        <option value="$PROJECT_DIR$/src/realestatebrokerage/controllers/ViewPropertyController.java" />
+        <option value="$PROJECT_DIR$/src/realestatebrokerage/util/DataBase.java" />
+        <option value="$PROJECT_DIR$/src/realestatebrokerage/models/propertymodels/Property.java" />
+        <option value="$PROJECT_DIR$/src/realestatebrokerage/controllers/BrowserPropertiesController.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="164" />
-    <option name="y" value="158" />
+    <option name="x" value="367" />
+    <option name="y" value="258" />
     <option name="width" value="914" />
     <option name="height" value="755" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -256,6 +260,76 @@
               <item name="RealEstateBrokerage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="realestatebrokerage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RealEstateBrokerage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RealEstateBrokerage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="realestatebrokerage" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RealEstateBrokerage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RealEstateBrokerage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="realestatebrokerage" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RealEstateBrokerage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RealEstateBrokerage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="realestatebrokerage" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="propertymodels" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RealEstateBrokerage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RealEstateBrokerage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="realestatebrokerage" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="propertymodels" type="462c0819:PsiDirectoryNode" />
+              <item name="buildings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RealEstateBrokerage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RealEstateBrokerage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="realestatebrokerage" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="propertymodels" type="462c0819:PsiDirectoryNode" />
+              <item name="land" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RealEstateBrokerage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RealEstateBrokerage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="realestatebrokerage" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="storageandsystemmodels" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RealEstateBrokerage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RealEstateBrokerage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="realestatebrokerage" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RealEstateBrokerage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RealEstateBrokerage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="realestatebrokerage" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RealEstateBrokerage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RealEstateBrokerage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="realestatebrokerage" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="browsing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RealEstateBrokerage" type="b2602c69:ProjectViewProjectNode" />
@@ -300,7 +374,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/bartl/RealEstateBrokerage/src/realestatebrokerage/controllers/LoginController.java&#10;buildDare&#9;PSI&#9;JAVA://realestatebrokerage.models.Building#getBuildDare" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="last.edited.regexp" value="Mała Wieś" />
+    <property name="last.edited.regexp" value="" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -466,21 +540,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="164" y="158" width="914" height="755" extended-state="0" />
+    <frame x="367" y="258" width="914" height="755" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.4945055" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3338898" sideWeight="0.50549453" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34210527" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33602583" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4730679" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36651054" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -491,7 +566,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32171157" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
@@ -516,20 +590,6 @@
     <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/models/BuildingState.java" />
     <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/models/Services.java" />
     <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/util/Commands.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/NumberFormatException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="579" column="0" lean-forward="false" selection-start-line="579" selection-start-column="0" selection-end-line="579" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/controllers/PropertyController.java" />
     <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/models/IObservable.java" />
     <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/models/IObserver.java" />
@@ -554,13 +614,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="4" column="37" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/controllers/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -568,6 +622,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-240">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -575,20 +630,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/view/LoginView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/view/AddPropertyView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -641,17 +683,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/models/storageandsystemmodels/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/models/storageandsystemmodels/Storage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -659,13 +695,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/models/propertymodels/Property.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -694,6 +724,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="32" column="38" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -701,24 +732,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/controllers/BrowserPropertiesController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/controllers/ViewPropertyController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1264">
-          <caret line="95" column="59" lean-forward="false" selection-start-line="95" selection-start-column="44" selection-end-line="95" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -751,57 +764,142 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/view/browsing/BrowserView.java">
+    <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/util/StoringManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/view/View.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        <state relative-caret-position="224">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/controllers/AddPropertyController.java">
+    <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/models/storageandsystemmodels/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="79" column="15" lean-forward="false" selection-start-line="79" selection-start-column="15" selection-end-line="79" selection-end-column="15" />
+        <state relative-caret-position="144">
+          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/Program.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1518">
+        <state relative-caret-position="-320">
           <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/util/DataBase.java">
+    <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/view/View.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        <state relative-caret-position="208">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/controllers/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="77" column="41" lean-forward="true" selection-start-line="77" selection-start-column="41" selection-end-line="77" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#menuChoiceAction#0;class#LoginController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/util/StoringManager.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        <state relative-caret-position="453">
+          <caret line="582" column="0" lean-forward="false" selection-start-line="582" selection-start-column="0" selection-end-line="582" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/view/AddPropertyView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/controllers/ViewPropertyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="120" column="38" lean-forward="false" selection-start-line="120" selection-start-column="38" selection-end-line="120" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/util/DataBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="109" column="65" lean-forward="false" selection-start-line="109" selection-start-column="65" selection-end-line="109" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/controllers/AddPropertyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="55" column="21" lean-forward="true" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/models/propertymodels/Property.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/view/LoginView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="848">
+          <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding>
+            <element signature="method#printLoginOptions#0;class#LoginView#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/view/browsing/BrowserView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/realestatebrokerage/controllers/BrowserPropertiesController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>

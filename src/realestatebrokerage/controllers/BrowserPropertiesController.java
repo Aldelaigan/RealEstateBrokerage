@@ -14,7 +14,7 @@ public class BrowserPropertiesController {
 
     public Action browserProperties() {
         int pageNumber = 1;
-        int pages = dataBase.getPropertyList().size() / 10;
+        int pages = dataBase.getPropertyList().size() / 10 + 1;
         if (pageNumber % 10 == 0)
             pages++;
         while (true) {
